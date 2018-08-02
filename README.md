@@ -1,2 +1,3 @@
-# BuildFaster
-Build android runnable(apk)  faster and run them quickly on device/emulator
+# BuildFaster (Mac Only, for now)
+Build android runnable(apk) faster and run them quickly from terminal.
+
