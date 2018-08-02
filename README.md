@@ -16,7 +16,7 @@ Names of those aliases can be anything you like. Those are the shortcuts you are
 
 <b>Step 2</b>: Keep the above install.sh and launch.sh in your home directory.
 
-Note: Make sure you update the apk or launcher activity path are updated with your desired location.
+Note: Make sure you update the paths of apk or launcher activity with your desired location in those script files.
 
 
 **Usage:**
@@ -26,7 +26,7 @@ In your terminal, from your android repository, type the following and press 'En
 **debugrun:** to clean the repository, build debug apk, install in one or many devices connected and launch them after installation completes.
 
 
-**releaserun:** same as above 'debugrun', but installs release build.
+**releaserun:** to clean the repository, build release apk, install in one or many devices connected and launch them after installation completes.
 
 
 **reinstall:** to install existing apk in one or many devices connected, without rebuilding the whole repo.
