@@ -2,6 +2,8 @@
 ## Build android runnable(apk) faster and run them quickly from terminal.
 
 <b>Step 1</b>: Add following aliases to your .bash_profile or .profile, at the bottom.
+
+
 alias reinstall="sh <your_home_directory>/install.sh" 
 \
 alias launch="sh <your_home_directory>/launch.sh"
